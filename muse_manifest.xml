@@ -1,0 +1,292 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DigitalImpact.Art" resolutions="1x" timestamp="1700932627775">
+  <folder name="css">
+    <file name="site_global.css" crc="282479550"/>
+    <file name="master_contacto.css" crc="4201643893" ref="contacto"/>
+    <file name="master_servicios.css" crc="4288709834" ref="servicios"/>
+    <file name="master_mi-trabajo2.css" crc="12312025" ref="marketing-digital"/>
+    <file name="master_inicio.css" crc="3963382697" ref="inicio"/>
+    <file name="master_mi-trabajo4.css" crc="262157912" ref="articulo"/>
+    <file name="master_a-p_g_-maestra.css" crc="476907920" ref="index"/>
+    <file name="master_mi-trabajo3.css" crc="71652897" ref="viajes-y-gastronomia"/>
+    <file name="master_mi-trabajo.css" crc="4183748400" ref="tecnologia-e-innovacion"/>
+    <file name="contacto.css" crc="4208023722" ref="contacto"/>
+    <file name="servicios.css" crc="525711844" ref="servicios"/>
+    <file name="tecnologia-e-innovacion.css" crc="287604656" ref="tecnologia-e-innovacion"/>
+    <file name="viajes-y-gastronomia.css" crc="3783618526" ref="viajes-y-gastronomia"/>
+    <file name="articulo.css" crc="4054117139" ref="articulo"/>
+    <file name="marketing-digital.css" crc="262007423" ref="marketing-digital"/>
+    <file name="inicio.css" crc="3868394970" ref="inicio"/>
+    <file name="index.css" crc="130566384" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo"/>
+    <file name="museutils.js" crc="3939489907" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo"/>
+    <file name="whatinput.js" crc="86476730" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo"/>
+    <file name="museconfig.js" crc="3936894949" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo"/>
+    <file name="jquery.watch.js" crc="522499760" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo"/>
+    <file name="html5shiv.js" crc="4241844378" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo"/>
+    <file name="require.js" crc="4177726516" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo"/>
+  </folder>
+  <folder name="images">
+    <file name="logo id1.png" crc="4263889328" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo">
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="articulo" alt=""/>
+    </file>
+    <file name="normal.png" crc="287486121" ref="inicio:index:servicios:contacto">
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="rellover.png" crc="513096081" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo">
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="articulo" alt=""/>
+    </file>
+    <file name="normal2.png" crc="4080378037" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo">
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="articulo" alt=""/>
+    </file>
+    <file name="rellover2.png" crc="3871687767" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo">
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="articulo" alt=""/>
+      <caption webpage="articulo" alt=""/>
+    </file>
+    <file name="normal3.png" crc="415067336" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo">
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="articulo" alt=""/>
+    </file>
+    <file name="rellover3.png" crc="3758341314" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo">
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="articulo" alt=""/>
+      <caption webpage="articulo" alt=""/>
+    </file>
+    <file name="normal4.png" crc="49466320" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo">
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="articulo" alt=""/>
+    </file>
+    <file name="rellover4.png" crc="4226728580" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo">
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="articulo" alt=""/>
+      <caption webpage="articulo" alt=""/>
+    </file>
+    <file name="normal5.png" crc="436213035" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo">
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="articulo" alt=""/>
+    </file>
+    <file name="rellover5.png" crc="480674482" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo">
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="articulo" alt=""/>
+      <caption webpage="articulo" alt=""/>
+    </file>
+    <file name="normal6.png" crc="4105337072" ref="inicio:index">
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rellover6.png" crc="3764628312" ref="inicio:index">
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="leonardo_diffusion_xl_design_a_colorful_and_modern_logo_for_di_3.jpg" crc="4018518728" seo="true" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:servicios:contacto:articulo">
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="articulo" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+    </file>
+    <file name="digitalimpac.png" crc="3920945304" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:servicios:contacto:articulo">
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="articulo" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+    </file>
+    <file name="gratis-png-copyright-simbolo-ley-autor-logo-copyright.png" crc="389044183" seo="true" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:servicios:contacto:articulo">
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="articulo" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+    </file>
+    <file name="fondo2.jpg" crc="258980087" ref="inicio:tecnologia-e-innovacion:marketing-digital:index:viajes-y-gastronomia:servicios:contacto:articulo">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="titulo portada1.png" crc="445535481" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="titulo portada21.png" crc="505388412" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="titulo portada22.png" crc="4192454600" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="titulo portada23.png" crc="4250118957" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="contenido seo.png" crc="4169699847" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="-.png" crc="476395932" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="articulos.png" crc="447005085" seo="true" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="u3055-4.png" crc="3969669356" ref="inicio"/>
+    <file name="freddy2.png" crc="393670937" seo="true" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="u3062-4.png" crc="4026096053" ref="inicio"/>
+    <file name="u3074-6.png" crc="3939614807" ref="inicio"/>
+    <file name="th-crop-u1520.jpg" crc="233469878" seo="true" ref="tecnologia-e-innovacion">
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+    </file>
+    <file name="th (1)-crop-u1539.jpg" crc="4103246794" seo="true" ref="tecnologia-e-innovacion">
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+    </file>
+    <file name="blog123-1024x615-crop-u1574.jpg" crc="41629924" seo="true" ref="tecnologia-e-innovacion">
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+    </file>
+    <file name="16cd1a82-72d4-4c1e-b0f0-5d0e06ba2d92_16-9-discover-aspect-ratio_default_0.jpg" crc="358326055" seo="true" ref="tecnologia-e-innovacion">
+      <caption webpage="tecnologia-e-innovacion" alt=""/>
+    </file>
+    <file name="oig-crop-u1790.jpg" crc="500995294" seo="true" ref="marketing-digital">
+      <caption webpage="marketing-digital" alt=""/>
+    </file>
+    <file name="oig (1)-crop-u1817.jpg" crc="3807177821" seo="true" ref="marketing-digital">
+      <caption webpage="marketing-digital" alt=""/>
+    </file>
+    <file name="albedobase_xl_transform_your_marketing_strategy_into_a_whimsic_0.jpg" crc="378075354" ref="marketing-digital">
+      <caption webpage="marketing-digital" alt=""/>
+    </file>
+    <file name="oig_jfif-crop-u2243.jpg" crc="3887856011" seo="true" ref="viajes-y-gastronomia">
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+    </file>
+    <file name="oigaoqdjy3ifhsntz6bfn-crop-u2253.jpg" crc="279150800" seo="true" ref="viajes-y-gastronomia">
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+    </file>
+    <file name="oig (3)-crop-u2274.jpg" crc="508269638" seo="true" ref="viajes-y-gastronomia">
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+    </file>
+    <file name="oig (4)-crop-u2284.jpg" crc="307390229" seo="true" ref="viajes-y-gastronomia">
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+    </file>
+    <file name="oig (5).png" crc="184529912" seo="true" ref="viajes-y-gastronomia">
+      <caption webpage="viajes-y-gastronomia" alt=""/>
+    </file>
+    <file name="upwork-symbol-700x394.jpg" crc="3841835230" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+  </folder>
+  <file name="inicio.html" crc="3809669766" seo="true" mt="1700932492717" redirect="true"/>
+  <file name="tecnologia-e-innovacion.html" crc="3934991906" seo="true" mt="1700932492664" redirect="true"/>
+  <file name="marketing-digital.html" crc="3832677246" seo="true" mt="1700932492704" redirect="true"/>
+  <file name="index.html" crc="452627253" seo="true" mt="1700932492690" redirect="true"/>
+  <file name="viajes-y-gastronomia.html" crc="210419212" seo="true" mt="1700932492704" redirect="true"/>
+  <file name="servicios.html" crc="4107114817" seo="true" mt="1700932492704" redirect="true"/>
+  <file name="contacto.html" crc="3993576643" seo="true" mt="1700932561810" redirect="true"/>
+  <file name="articulo.html" crc="3831694899" seo="true" mt="1700932492717" redirect="true"/>
+</manifest>
